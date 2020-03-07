@@ -24,7 +24,6 @@ def literal_aoh
     },
     {:name => "Joelle van Dyne",
     :occupation => "Radio"},
-    
     {:name => "Pat Monteseian",
     :occupation => "Staff"},
     {:name => "Kate Gompert",
